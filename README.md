@@ -19,7 +19,7 @@
 2. Make sure you have Jupyter Notebook installed.
 
 3. In your terminal or Conda Prompt for Windows Users, type `jupyter notebook`.
-  a. **Note:**
+  - **Note:**
   In your terminal, you can notice that a local server is running, that is called the notebook server. Do NOT terminate the server while the notebook is running.
 4. Direct to the cloned repository's location and click on either Intro.ipynb or Iris.ipynb.
 
