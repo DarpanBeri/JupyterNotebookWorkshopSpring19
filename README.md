@@ -9,8 +9,11 @@
 
 #### Requirements for this workshop:
 
-- Jupyter Notebook and Python.
-- Or just install Anaconda.
+- Jupyter Notebook. https://jupyter.org/install
+- Python(3). https://www.python.org/
+
+ **Note:** You can install Anaconda and not worry about the above. https://www.anaconda.com/
+
 
 #### How to set this workshop up?
 
