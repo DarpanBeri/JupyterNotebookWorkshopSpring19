@@ -1,21 +1,20 @@
 Jupyter Notebook is an open-source web application.
 
-It provides an environment, where you can document your code, run it, look at the outcome, visualize data and see the results without leaving the environment. This makes it a handy tool for performing end to end data science workflows – 
+It provides an environment, where you can document your code, run it, look at the outcome, visualize data and see the results without leaving the environment. This makes it a handy tool for performing end to end data science workflows 
 
-data cleaning,
-
- statistical modeling,
-
- building and training machine learning models,
-
- visualizing data
-
+- data cleaning,
+- statistical modeling,
+- building and training machine learning models,
+- visualizing data
 
 The code in Jupyter Notebook is written in independent cells, which are executed individually. This allows the user to test a specific block of code in a project without having to execute the code from the start of the script. 
 
 Because of these features, Jupyter Notebook is being used in multiple fields, from being used by researchers so that people can replicate the results in their own machines, to being used for tutorials and guides because it integrates markdown with code beautifully.
 
-Tell them how to rename shit.
+
+------------------------OPEN THE NOTEBOOK------------------------------
+
+Tell them how to rename the notebook.
 
 There are two modes in jupyter notebook, kinda like. There is Command mode and edit mode.
 
