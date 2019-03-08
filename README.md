@@ -5,7 +5,9 @@
 
 - Intro.ipynb, An introduction to Jupyter Notebook's features.
 
-- README.md
+- SpeakerNotes.txt, for me in case I panic.
+
+- README.md, this file.
 
 #### Requirements for this workshop:
 
