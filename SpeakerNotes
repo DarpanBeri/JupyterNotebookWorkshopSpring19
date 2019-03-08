@@ -1,0 +1,40 @@
+Jupyter Notebook is an open-source web application.
+
+It provides an environment, where you can document your code, run it, look at the outcome, visualize data and see the results without leaving the environment. This makes it a handy tool for performing end to end data science workflows – 
+
+data cleaning,
+
+ statistical modeling,
+
+ building and training machine learning models,
+
+ visualizing data
+
+
+The code in Jupyter Notebook is written in independent cells, which are executed individually. This allows the user to test a specific block of code in a project without having to execute the code from the start of the script. 
+
+Because of these features, Jupyter Notebook is being used in multiple fields, from being used by researchers so that people can replicate the results in their own machines, to being used for tutorials and guides because it integrates markdown with code beautifully.
+
+Tell them how to rename shit.
+
+There are two modes in jupyter notebook, kinda like. There is Command mode and edit mode.
+
+1. Command mode allows us to manipulate the cells, delete, add and execute the cells for example.
+	1.a. Escape puts you in Command mode. 
+	1.b. 'M' while being selecting a cell puts the cell in Markdown mode.
+	1.c. 'C' while being selected put you in Code mode.
+
+2. Edit mode allows us to edit the cells. Add code to it for example.
+	2.a. Enter allows you to put your self in Edit mode. 
+	2.b. Ctrl+ Enter to execute the code in the cell
+
+From the printing of ya_boy, yo can see that The cells also act as a terminal window of sorts.
+The numbers on the cell determine and show the execution order. The rule of thumb is to have stuff in order to help readablility.
+
+Special Commands to run other language's code.
+1. Exclamation mark for bash command
+2. There are inbuilt commands called Magics. % is a line magic, that is that the argument for the command will come from the same line. %% means the whole cell is a magic command
+
+Show Matplotlib
+
+Being able to show these plots and data visualization like that allows one to check on their code in real time and is a very powerful tool.
