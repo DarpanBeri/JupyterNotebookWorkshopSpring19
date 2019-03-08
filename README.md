@@ -5,8 +5,6 @@
 
 - Intro.ipynb, An introduction to Jupyter Notebook's features.
 
-- Iris.ipynb, An introduction to a classifier and a playground to mess around with it.
-
 - README.md
 
 #### Requirements for this workshop:
