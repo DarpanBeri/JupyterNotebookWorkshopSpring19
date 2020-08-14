@@ -35,4 +35,4 @@
 - https://playground.tensorflow.org/
 - http://rogerdudler.github.io/git-guide/
 - https://www.kaggle.com/skalskip/iris-data-visualization-and-knn-classification
-- https://www.youtube.com/results?search_query=jupyter+notebook
+- https://youtu.be/jZ952vChhuI
